@@ -1,0 +1,98 @@
+body{
+  margin: none;
+}
+h1 {
+  font-family: Bookman, serif;
+  font-style: oblique;
+}
+h3{
+  font-family: Trebuchet MS, sans-serif;
+  font-style: oblique;
+}
+.jogo {
+  text-align: center;
+  background-color: gray;
+  border-radius: 9px;
+  width: 60%;
+  margin: 1;
+}
+label {
+  font-family: Avantgarde, sans-serif;
+font-style: italic;
+  background-color: black;
+  color: white;
+  border-radius: 700px;
+  padding: 7px;
+  width: 10%;
+  
+}
+button {
+  border: none;
+  border-radius: 700px;
+  width: 70px;
+  height: 35px;
+  background-color: black;
+  color: whitesmoke;
+}
+input {
+  border-color: #b3b3b3;
+  border-radius: 700px;
+}
+textarea {
+  border-color: black;
+  border-radius: 10px;
+}
+.header {
+  align-content: center;
+  text-align: center;
+  background-color: gray;
+  border-radius: 500px;
+}
+hr {
+  border-color: black;
+}
+.name {
+  background-color: black;
+  color: white;
+  border-radius: 700px;
+  padding: 10px;
+  width: 60%;
+}
+.idade {
+  background-color: black;
+  color: white;
+  border-radius: 700px;
+  padding: 10px;
+  width: 60%;
+}
+.senha {
+  background-color: black;
+  color: white;
+  border-radius: 700px;
+  padding: 10px;
+  width: 60%;
+}
+.email {
+  background-color: black;
+  color: white;
+  border-radius: 700px;
+  padding: 10px;
+  width: 60%;
+}
+textarea {
+  border-color: gray;
+}
+h4 {
+  font-family: Verdana, sans-serif;
+  font-style: oblique;
+}
+small {
+  font-family: Verdana, sans-serif;
+  font-style: oblique;
+}
+
+
+
+
+
+

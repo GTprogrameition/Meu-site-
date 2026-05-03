@@ -1,0 +1,56 @@
+button {
+  margin: 10px;
+  padding: 10px;
+  border: 0px;
+  border-radius: 700px;
+  background: green;
+  color: whitesmoke;
+  
+}
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #0ce81e;
+}
+h2 {
+  font-family: Arial, sans-serif;
+  color: #0ce81e;
+}
+h3 {
+  font-family: Arial, sans-serif;
+  border-color: greenyellow;
+  color: #0ce81e;
+}
+li {
+  font-family: Verdana, Sans-serif;
+  color: #5edb5a;
+}
+p {
+  color: #09ff00;
+  font-family: Courier New, Monospace;
+  border: 1;
+  border-color: yellow;
+  
+}
+body {
+  background-image: url(https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg);
+  background-position: 3700px;
+}
+table {
+  text-align: center;
+  border-color: #16e042;
+  color: #16e042;
+  background-color: black;
+}
+iframe {
+  border: none;
+}
+hr {
+  border-color: green;
+}
+
+
+
+
+
+
